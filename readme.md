@@ -4,6 +4,9 @@
 
 This project is a simple command-line tool for generating passwords with various options. Users can specify the desired length of the password and the characters they prefer to include.
 
+# video
+https://youtu.be/wzqLsSzxtkw
+
 ## Features
 
 - Generate passwords of varying lengths.
